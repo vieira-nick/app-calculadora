@@ -1,7 +1,6 @@
-# myapp
+App calculadora
 
-A new Flutter project.
-
+Uma calculadora!
 ## Getting Started
 
 This project is a starting point for a Flutter application.
